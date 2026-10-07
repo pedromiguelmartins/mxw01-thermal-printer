@@ -1,6 +1,3 @@
-# mxw01-thermal-printer
-A personal project turning an ALE-HOP MXW01 thermal printer into a daily briefing and printing system, powered by Flask and a Synology NAS.
-
 # MXW01 — A Small Printer, a Long Journey
 
 A personal project that turns a small Bluetooth thermal printer I bought at **ALE-HOP**, identified in this project as **MXW01**, into a useful part of everyday life: a morning briefing, shopping lists, reminders, short notes and photographs, all controlled from an iPhone.
